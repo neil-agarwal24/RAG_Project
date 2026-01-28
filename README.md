@@ -93,8 +93,6 @@ RAG/
 
 1. **Retrieval**: FAISS vector search finds top 3 relevant chunks
 2. **Generation**: OpenAI GPT-3.5-turbo generates answers from retrieved context
-3. **No LangChain**: Built from scratch to understand RAG fundamentals
 
-## License
 
-Educational project - CA DMV content is public domain.
+
